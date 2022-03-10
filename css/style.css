@@ -99,6 +99,7 @@ html {
 
 .activity {
   font-family: "Source Sans Pro", sans-serif;
+  text-transform: uppercase;
   color: #ffffff;
   font-size: 12px;
   line-height: 20px;
